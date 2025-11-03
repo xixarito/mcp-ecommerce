@@ -1,0 +1,1 @@
+# MCP React E-commerce Package
